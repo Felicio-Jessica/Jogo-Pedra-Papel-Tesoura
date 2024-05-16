@@ -19,7 +19,7 @@ Certifique-se de ter o [Java Development Kit (JDK)](https://www.oracle.com/java/
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seuusuario/pedra-papel-tesoura.git
+    git clone https://github.com/Felicio-Jessica/Jogo-Pedra-Papel-Tesoura
     ```
 2. Navegue até o diretório do projeto:
     ```sh
